@@ -6,4 +6,4 @@ In this project, we find the AQI of an area using Machine Learning algorithms li
 
 The results showed that RFR performed the best among the regression algorithms, MLR and DTR both performed well while the performance of SVR was bad.
 
-(Please refer to the paper: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003189053-16/predicting-air-quality-index-machine-learning-models-abirami-girija-anindya-das-navneeth-sreenivasan)
+(Please refer to the paper we published on this study: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003189053-16/predicting-air-quality-index-machine-learning-models-abirami-girija-anindya-das-navneeth-sreenivasan)
